@@ -8,7 +8,7 @@ gem 'sqlite3'
 gem 'tux'
 gem 'pry'
 gem 'pry-nav'
-gem 'rake', >=
+gem 'rake', '>=2.0.5'
 gem 'tux'
 gem 'rspec'
 gem 'rack-test'
